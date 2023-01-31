@@ -1,3 +1,4 @@
+%define device pdx203
 %define rpm_device xqat51
 
 %define device_pretty Xperia 1 II

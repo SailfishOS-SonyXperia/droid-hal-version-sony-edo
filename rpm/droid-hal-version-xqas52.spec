@@ -1,3 +1,4 @@
+%define device pdx206
 %define rpm_device xqat52
 
 %define device_pretty Xperia 5 II - Dual SIM
